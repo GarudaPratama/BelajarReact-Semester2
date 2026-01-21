@@ -1,0 +1,14 @@
+.title {
+    color: red;
+    background-color: aqua;
+}
+
+.subtitle {
+    color: blue;
+    background-color: yellow;
+}
+
+.footer {
+    color: green;
+    background-color: black;
+}

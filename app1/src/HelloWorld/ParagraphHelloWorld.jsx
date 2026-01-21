@@ -1,5 +1,5 @@
-export function ParagraphHelloWorld() {
-    const text = "Selamat Belajar ReactJS";
+export function ParagraphHelloWorld({text = "Selamat Belajar ReactJS"}) {
+    
     return (
         <div>
             <p>{text.toLowerCase()}</p>
